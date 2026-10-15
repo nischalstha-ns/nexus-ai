@@ -1,0 +1,38 @@
+__pycache__/
+*.pyc
+*.py[cod]
+*.egg-info/
+.env
+*.pem
+*.key
+
+# Runtime data (created on first run)
+data/*.db
+data/*.db-journal
+data/*.db-shm
+data/captures/
+data/checkpoints/
+data/backups/
+services/agent/data/
+
+# Python envs
+.venv/
+venv/
+
+# Node / Tauri
+node_modules/
+apps/desktop/src-tauri/target/
+apps/desktop/dist/
+dist/
+target/
+
+# Flutter
+companion/.dart_tool/
+companion/build/
+companion/.flutter-plugins*
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp

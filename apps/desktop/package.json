@@ -1,0 +1,1 @@
+{"dependencies":{"react":"^18.3.1","react-dom":"^18.3.1"},"devDependencies":{"@tauri-apps/cli":"^2.2.0","@vitejs/plugin-react":"^4.3.4","typescript":"^5.6.3","vite":"^6.0.3"},"name":"nexus-desktop","private":true,"scripts":{"build":"tsc && vite build","dev":"vite","tauri":"tauri"},"type":"module","version":"0.1.0"}
